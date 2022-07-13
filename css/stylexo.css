@@ -1,0 +1,42 @@
+/*body{
+    text-align: right;
+}
+nav ul{
+    margin: auto;
+    padding: 0px;
+    line-height: 30px;
+    text-align: center;
+    border: solid;
+    color:red;
+}
+nav ul li{
+    text-align: auto;
+    background-color: #fff;
+    position: relative;
+    list-style: none;
+    float: left;
+}
+nav ul li a{
+    color: goldenrod;
+    border: 1px ;
+    height: 30px;
+    width: 195px;
+    text-shadow: 1px 1px 1px #ff0000;
+    /*text-decoration: none;
+    
+}
+#BLOG{
+    border: 2px solid;
+    color: aqua;
+}
+.TabbedPanelsTab{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: darksalmon;
+    font-weight: bold;
+    position: bottom;
+}
+
+*/
